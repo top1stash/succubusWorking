@@ -2,8 +2,8 @@
     "key":"ForTestingOnly123",
 
 	"mysql":{
-		"address":"127.0.0.1:3306",
-		"username":"root",
+		"address":"46.246.39.72:3306",
+		"username":"root2",
 		"password":"root",
 		"table":"succubus"
 	},
